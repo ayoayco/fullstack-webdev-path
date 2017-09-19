@@ -1,6 +1,6 @@
 # Full Stack Web Developer Path
 
-This is a fork of [shovanch/fullstack-webdev-path](https://github.com/shovanch/fullstack-webdev-path), with the goal of adding resources for learning the MEAN Stack.
+This is a fork of [shovanch/fullstack-webdev-path](https://github.com/shovanch/fullstack-webdev-path), with additional resources for learning the MEAN Stack. Also I have removed the basic web technologies, so in a way, this is for intermediate to advanced web developers.
 
 This is a guide to learn full-stack web development. It is focused on full-stack JavaScript. It covers all the way from the fundamentals to React and Node. 
 
@@ -16,7 +16,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-|  | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  ||
+| Ongoing | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX | [My solutions to the Problem Sets](https://github.com/ayoayco/fullstack-webdev-path) ||
 |  | Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) or Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
 |  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
 |  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
