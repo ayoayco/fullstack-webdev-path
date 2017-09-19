@@ -1,6 +1,6 @@
 # Full Stack Web Developer Path
 
-This is a fork of [shovanch/fullstack-webdev-path](https://github.com/shovanch/fullstack-webdev-path), with additional resources for learning the MEAN Stack. Also I have removed the basic web technologies, so in a way, this is for intermediate to advanced web developers.
+This is a fork of [shovanch/fullstack-webdev-path](https://github.com/shovanch/fullstack-webdev-path), with additional resources for learning the MEAN Stack. Also I might remove the basic web technologies, so in a way, this is for intermediate to advanced web developers.
 
 This is a guide to learn full-stack web development. It is focused on full-stack JavaScript. It covers all the way from the fundamentals to React and Node. 
 
